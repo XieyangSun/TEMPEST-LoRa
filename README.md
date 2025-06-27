@@ -1,4 +1,4 @@
-## TEMPEST-LoRa code for Artifact Evaluation
+## TEMPEST-LoRa
 
 This repository contains the source code and instructions for reproducing the results of "TEMPEST-LoRa: Cross-Technology Covert Communication", accepted to ACM CCS 2025.
 
