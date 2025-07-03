@@ -4,7 +4,9 @@ This repository contains the source code and instructions for reproducing the re
 
 ### Overview
 
-This work demonstrates how to craft a malicious image or video that, when played in full-screen mode on a monitor/projector/TV, causes the connected VGA or HDMI cable to emit electromagnetic radiation (EMR)  LoRa-compatible packets. A demo video is avaliable at bilibili: https://www.bilibili.com/video/BV1PLKiz6Eao
+This work demonstrates how to craft a malicious image or video that, when played in full-screen mode on a monitor/projector/TV, causes the connected VGA or HDMI cable to emit electromagnetic radiation (EMR)  LoRa-compatible packets. 
+A demo video is avaliable at bilibili: https://www.bilibili.com/video/BV1PLKiz6Eao
+The preprint of the paper: https://arxiv.org/abs/2506.21069
 
 ### Hardwave Requirements
 
