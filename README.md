@@ -141,3 +141,14 @@ To facilitate anyone interested in quickly reproducing TEMPEST-LoRa, we offer a 
 `radio.setPreambleLength(4); // set the length of Preamble. The samples in AttackDemo were created when PreambleLength = 4`
 
 (5) Some core MATLAB functions are provided in `.p` format to protect ongoing patent applications. Reviewers can run the code end-to-end as described in the instructions.
+
+## Citation
+If you find this code/work to be useful in your own research, please consider citing:
+```
+    @inproceedings{TEMPEST-LoRa,
+      title={TEMPEST-LoRa: Cross-Technology Covert Communication},
+      author={Xieyang Sun, Yuanqing Zheng, Wei Xi, Zuhao Chen, Zhizhen Chen, Han Hao, Zhiping Jiang, Sheng Zhong},
+      booktitle={Proceedings of ACM CCS},
+      year={2025}
+    }
+```
