@@ -1,6 +1,4 @@
-# TEMPEST-LoRa: Cross-Technology Covert Communication
-
-
+<h1 align="center">TEMPEST-LoRa: Cross-Technology Covert Communication</h1>
 
 <div align="center">
 
